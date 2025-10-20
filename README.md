@@ -1,2 +1,1 @@
-# ai-education-system
-نظام تعليم الذكاء الاصطناعي
+# ai-education-syste
